@@ -9,4 +9,5 @@ Client-Server for remote running commands in shell
 
 P.S
 На клиентской стороне надо мб под рутом выполнять: sudo python3 shellClient.py <IP-адрес машины с сервером>
+
 Айпишник чекается через команду ifconfig
